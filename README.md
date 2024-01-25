@@ -1,3 +1,4 @@
+# Ypu can find the deployed site at https://fidaweb.github.io/NFT-preview-card/
 # Frontend Mentor - NFT preview card component
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
